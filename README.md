@@ -18,7 +18,7 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 
 - Caesar cipher
 - Vigenere cipher
-- Electronic codebook (ECB)
+- ECB - electronic codebook (with images)
 - Diffie i Hellman
 - ElGamal
 - RSA
