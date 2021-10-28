@@ -1,6 +1,6 @@
 # cryptography
 
-##### _a mixed bag of crypto related functions_
+##### _a mixed bag of crypto functions_
 
 &nbsp;
 
