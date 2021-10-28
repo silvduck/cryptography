@@ -34,3 +34,10 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 - Euler's theorem
 - Primality test, Fermat and Miller-Rabin
 
+&nbsp;
+
+### blockchain (Bitcoin)
+
+- Block hashing
+- Merkle Root
+
