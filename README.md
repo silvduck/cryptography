@@ -20,6 +20,7 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 - Vigenere cipher
 - Electronic codebook (ECB)
 - Diffie i Hellman
+- ElGamal
 - RSA
 
 &nbsp;
