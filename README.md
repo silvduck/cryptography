@@ -20,8 +20,8 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 - Vigenere cipher
 - ECB - electronic codebook (with images)
 - Diffie–Hellman key exchange
-- RSA (key generation, encryption & decryption)
-- ElGamal (key generation, encryption & decryption)
+- RSA (key generation, encryption, decryption & signing)
+- ElGamal (key generation, encryption, decryption & signing)
 - HMAC
 
 &nbsp;
