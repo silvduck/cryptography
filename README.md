@@ -19,7 +19,7 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 - Caesar cipher
 - Vigenere cipher
 - ECB - electronic codebook (with images)
-- Diffie i Hellman
+- Diffie–Hellman key exchange
 - ElGamal
 - RSA
 - HMAC
