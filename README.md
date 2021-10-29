@@ -22,6 +22,7 @@ For errors or suggestions, you can write to silvduck256_at_gmail_dot_com
 - Diffie i Hellman
 - ElGamal
 - RSA
+- HMAC
 
 &nbsp;
 
